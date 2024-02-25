@@ -1,0 +1,24 @@
+=== Benchmark Stats ===
+Start Value: 100000.000000
+Final Value: 101230.000000
+Sharpe Ratio: 0.156918
+Cumulative Return: 0.012300
+Standard Deviation of Daily Returns: 0.017004
+Average Daily Return: 0.000168
+Ending Value Ratio of Portfolio: 1.012300
+=== Optimal Stats ===
+Start Value: 100000.000000
+Final Value: 678440.000000
+Sharpe Ratio: 13.365085
+Cumulative Return: 5.784400
+Standard Deviation of Daily Returns: 0.004551
+Average Daily Return: 0.003831
+Ending Value Ratio of Portfolio: 6.784400
+=== Correlations ===
+JPM     0.119225
+BBP     0.272897
+PPO     0.047342
+MACD    0.128009
+SO      0.304577
+GC      0.023337
+Name: Trading Points, dtype: float64

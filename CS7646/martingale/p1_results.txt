@@ -1,0 +1,9 @@
+Experiment 1 Results:
+---------------------
+Probability of winning $80 within 1000 sequential bets: 1.00
+Estimated expected value of winnings after 1000 sequential bets: 79.92
+
+Experiment 2 Results:
+---------------------
+Probability of winning $80 within 1000 sequential bets: 0.63
+Estimated expected value of winnings after 1000 sequential bets: -44.80

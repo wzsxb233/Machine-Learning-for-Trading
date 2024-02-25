@@ -1,0 +1,4 @@
+test_upper_bound: PASS
+test_lower_bound: PASS
+test_betting_stops: PASS
+test_convergence: PASS
